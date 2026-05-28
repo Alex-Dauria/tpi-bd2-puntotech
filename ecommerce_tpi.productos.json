@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fdb"
+  },
+  "nombre": "Notebook Lenovo IdeaPad",
+  "descripcion": "Notebook 15.6 pulgadas, 8GB RAM, 256GB SSD",
+  "precio": 450000,
+  "stock": 15,
+  "categoria": "Computacion",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fdc"
+  },
+  "nombre": "Mouse Logitech MX Master",
+  "descripcion": "Mouse inalambrico ergonomico",
+  "precio": 35000,
+  "stock": 40,
+  "categoria": "Perifericos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fdd"
+  },
+  "nombre": "Teclado Redragon Kumara",
+  "descripcion": "Teclado mecanico retroiluminado",
+  "precio": 28000,
+  "stock": 25,
+  "categoria": "Perifericos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fde"
+  },
+  "nombre": "Monitor Samsung 24 pulgadas",
+  "descripcion": "Monitor Full HD 1080p 75Hz",
+  "precio": 180000,
+  "stock": 10,
+  "categoria": "Monitores",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fdf"
+  },
+  "nombre": "Auriculares Sony WH-1000XM5",
+  "descripcion": "Auriculares inalambricos con cancelacion de ruido",
+  "precio": 95000,
+  "stock": 8,
+  "categoria": "Audio",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fe0"
+  },
+  "nombre": "Disco SSD Kingston 1TB",
+  "descripcion": "Disco solido interno SATA 1TB",
+  "precio": 55000,
+  "stock": 20,
+  "categoria": "Almacenamiento",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fe1"
+  },
+  "nombre": "Webcam Logitech C920",
+  "descripcion": "Camara web Full HD 1080p",
+  "precio": 42000,
+  "stock": 0,
+  "categoria": "Perifericos",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fe2"
+  },
+  "nombre": "Silla Gamer DXRacer",
+  "descripcion": "Silla ergonomica para gaming",
+  "precio": 220000,
+  "stock": 5,
+  "categoria": "Mobiliario",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fe3"
+  },
+  "nombre": "Mousepad XL Razer",
+  "descripcion": "Mousepad extra large antideslizante",
+  "precio": 12000,
+  "stock": 50,
+  "categoria": "Perifericos",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181942ff54edefa22d8fe4"
+  },
+  "nombre": "Hub USB-C 7 puertos",
+  "descripcion": "Hub USB-C con HDMI, USB 3.0 y lector SD",
+  "precio": 18000,
+  "stock": 30,
+  "categoria": "Accesorios",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a18194eff54edefa22d8fe6"
+  },
+  "nombre": "Telefono Samsung Galaxy A54",
+  "descripcion": "Smartphone 6.4 pulgadas, 128GB, camara triple",
+  "precio": 320000,
+  "stock": 12,
+  "categoria": "Celulares",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a18194eff54edefa22d8fe7"
+  },
+  "nombre": "Tablet iPad 10ma generacion",
+  "descripcion": "Tablet Apple 10.9 pulgadas, 64GB WiFi",
+  "precio": 580000,
+  "stock": 6,
+  "categoria": "Tablets",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a18194eff54edefa22d8fe8"
+  },
+  "nombre": "Impresora Epson EcoTank",
+  "descripcion": "Impresora multifuncion con sistema de tinta continua",
+  "precio": 145000,
+  "stock": 0,
+  "categoria": "Impresoras",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6a18194eff54edefa22d8fe9"
+  },
+  "nombre": "Parlante Bluetooth JBL Charge 5",
+  "descripcion": "Parlante portatil resistente al agua 20W",
+  "precio": 75000,
+  "stock": 18,
+  "categoria": "Audio",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a18194eff54edefa22d8fea"
+  },
+  "nombre": "Router TP-Link WiFi 6",
+  "descripcion": "Router inalambrico AX1800 doble banda",
+  "precio": 48000,
+  "stock": 22,
+  "categoria": "Redes",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181986ff54edefa22d8fec"
+  },
+  "nombre": "Procesador Intel Core i5-12400",
+  "descripcion": "Procesador de escritorio 6 nucleos, 12 hilos, 2.5GHz",
+  "precio": 185000,
+  "stock": 9,
+  "categoria": "Computacion",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181986ff54edefa22d8fed"
+  },
+  "nombre": "Memoria RAM Corsair 16GB DDR4",
+  "descripcion": "Memoria RAM DDR4 3200MHz CL16",
+  "precio": 42000,
+  "stock": 35,
+  "categoria": "Computacion",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181986ff54edefa22d8fee"
+  },
+  "nombre": "Placa de Video RTX 3060",
+  "descripcion": "Tarjeta grafica NVIDIA 12GB GDDR6",
+  "precio": 420000,
+  "stock": 4,
+  "categoria": "Computacion",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a181986ff54edefa22d8fef"
+  },
+  "nombre": "Fuente de Poder Corsair 650W",
+  "descripcion": "Fuente ATX 80 Plus Bronze certificada",
+  "precio": 65000,
+  "stock": 0,
+  "categoria": "Computacion",
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "6a181986ff54edefa22d8ff0"
+  },
+  "nombre": "Gabinete NZXT H510",
+  "descripcion": "Gabinete ATX mid-tower con panel de vidrio templado",
+  "precio": 95000,
+  "stock": 7,
+  "categoria": "Computacion",
+  "activo": true
+}]

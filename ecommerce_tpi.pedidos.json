@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dd5"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcb"
+  },
+  "cliente_nombre": "Laura Gomez",
+  "fecha_pedido": {
+    "$date": "2024-03-15T10:30:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdb"
+      },
+      "nombre": "Notebook Lenovo IdeaPad",
+      "precio_unitario": 450000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdc"
+      },
+      "nombre": "Mouse Logitech MX Master",
+      "precio_unitario": 35000,
+      "cantidad": 1
+    }
+  ],
+  "total": 485000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dd6"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcc"
+  },
+  "cliente_nombre": "Carlos Perez",
+  "fecha_pedido": {
+    "$date": "2024-04-20T14:00:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fde"
+      },
+      "nombre": "Monitor Samsung 24 pulgadas",
+      "precio_unitario": 180000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdd"
+      },
+      "nombre": "Teclado Redragon Kumara",
+      "precio_unitario": 28000,
+      "cantidad": 1
+    }
+  ],
+  "total": 208000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dd7"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcd"
+  },
+  "cliente_nombre": "Maria Lopez",
+  "fecha_pedido": {
+    "$date": "2024-05-10T09:15:00Z"
+  },
+  "estado": "en_proceso",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdf"
+      },
+      "nombre": "Auriculares Sony WH-1000XM5",
+      "precio_unitario": 95000,
+      "cantidad": 2
+    }
+  ],
+  "total": 190000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dd8"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcf"
+  },
+  "cliente_nombre": "Ana Rodriguez",
+  "fecha_pedido": {
+    "$date": "2024-06-05T16:45:00Z"
+  },
+  "estado": "cancelado",
+  "activo": false,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe2"
+      },
+      "nombre": "Silla Gamer DXRacer",
+      "precio_unitario": 220000,
+      "cantidad": 1
+    }
+  ],
+  "total": 220000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dd9"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd1"
+  },
+  "cliente_nombre": "Roberto Silva",
+  "fecha_pedido": {
+    "$date": "2024-07-18T11:00:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe0"
+      },
+      "nombre": "Disco SSD Kingston 1TB",
+      "precio_unitario": 55000,
+      "cantidad": 2
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe3"
+      },
+      "nombre": "Mousepad XL Razer",
+      "precio_unitario": 12000,
+      "cantidad": 1
+    }
+  ],
+  "total": 122000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dda"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd2"
+  },
+  "cliente_nombre": "Lucia Fernandez",
+  "fecha_pedido": {
+    "$date": "2024-08-22T13:30:00Z"
+  },
+  "estado": "en_proceso",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fe6"
+      },
+      "nombre": "Telefono Samsung Galaxy A54",
+      "precio_unitario": 320000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe4"
+      },
+      "nombre": "Hub USB-C 7 puertos",
+      "precio_unitario": 18000,
+      "cantidad": 1
+    }
+  ],
+  "total": 338000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9ddb"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd4"
+  },
+  "cliente_nombre": "Valentina Castro",
+  "fecha_pedido": {
+    "$date": "2024-09-14T10:00:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fe7"
+      },
+      "nombre": "Tablet iPad 10ma generacion",
+      "precio_unitario": 580000,
+      "cantidad": 1
+    }
+  ],
+  "total": 580000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9ddc"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd5"
+  },
+  "cliente_nombre": "Martin Ruiz",
+  "fecha_pedido": {
+    "$date": "2024-10-01T15:20:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181986ff54edefa22d8fec"
+      },
+      "nombre": "Procesador Intel Core i5-12400",
+      "precio_unitario": 185000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181986ff54edefa22d8fed"
+      },
+      "nombre": "Memoria RAM Corsair 16GB DDR4",
+      "precio_unitario": 42000,
+      "cantidad": 2
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181986ff54edefa22d8fee"
+      },
+      "nombre": "Placa de Video RTX 3060",
+      "precio_unitario": 420000,
+      "cantidad": 1
+    }
+  ],
+  "total": 689000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9ddd"
+  },
+  "cliente_id": {
+    "$oid": "6a1818faff54edefa22d8fd7"
+  },
+  "cliente_nombre": "Alex Dauria",
+  "fecha_pedido": {
+    "$date": "2024-11-05T09:00:00Z"
+  },
+  "estado": "en_proceso",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181986ff54edefa22d8ff0"
+      },
+      "nombre": "Gabinete NZXT H510",
+      "precio_unitario": 95000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fea"
+      },
+      "nombre": "Router TP-Link WiFi 6",
+      "precio_unitario": 48000,
+      "cantidad": 1
+    }
+  ],
+  "total": 143000
+},
+{
+  "_id": {
+    "$oid": "6a181a8f15d97cb7a3be9dde"
+  },
+  "cliente_id": {
+    "$oid": "6a1818faff54edefa22d8fd8"
+  },
+  "cliente_nombre": "Andres Bonelli",
+  "fecha_pedido": {
+    "$date": "2024-11-10T17:00:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fe9"
+      },
+      "nombre": "Parlante Bluetooth JBL Charge 5",
+      "precio_unitario": 75000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdc"
+      },
+      "nombre": "Mouse Logitech MX Master",
+      "precio_unitario": 35000,
+      "cantidad": 1
+    }
+  ],
+  "total": 110000
+},
+{
+  "_id": {
+    "$oid": "6a181a9f15d97cb7a3be9de1"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcc"
+  },
+  "cliente_nombre": "Carlos Perez",
+  "fecha_pedido": {
+    "$date": "2024-11-15T10:00:00Z"
+  },
+  "estado": "en_proceso",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181986ff54edefa22d8fee"
+      },
+      "nombre": "Placa de Video RTX 3060",
+      "precio_unitario": 420000,
+      "cantidad": 1
+    }
+  ],
+  "total": 420000
+},
+{
+  "_id": {
+    "$oid": "6a181a9f15d97cb7a3be9de2"
+  },
+  "cliente_id": {
+    "$oid": "6a181851ff54edefa22d8fcb"
+  },
+  "cliente_nombre": "Laura Gomez",
+  "fecha_pedido": {
+    "$date": "2024-11-20T14:30:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdf"
+      },
+      "nombre": "Auriculares Sony WH-1000XM5",
+      "precio_unitario": 95000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe3"
+      },
+      "nombre": "Mousepad XL Razer",
+      "precio_unitario": 12000,
+      "cantidad": 2
+    }
+  ],
+  "total": 119000
+},
+{
+  "_id": {
+    "$oid": "6a181a9f15d97cb7a3be9de3"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd4"
+  },
+  "cliente_nombre": "Valentina Castro",
+  "fecha_pedido": {
+    "$date": "2024-12-01T09:45:00Z"
+  },
+  "estado": "cancelado",
+  "activo": false,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fe6"
+      },
+      "nombre": "Telefono Samsung Galaxy A54",
+      "precio_unitario": 320000,
+      "cantidad": 1
+    }
+  ],
+  "total": 320000
+},
+{
+  "_id": {
+    "$oid": "6a181a9f15d97cb7a3be9de4"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd3"
+  },
+  "cliente_nombre": "Diego Torres",
+  "fecha_pedido": {
+    "$date": "2024-12-05T16:00:00Z"
+  },
+  "estado": "entregado",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdd"
+      },
+      "nombre": "Teclado Redragon Kumara",
+      "precio_unitario": 28000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fdc"
+      },
+      "nombre": "Mouse Logitech MX Master",
+      "precio_unitario": 35000,
+      "cantidad": 1
+    }
+  ],
+  "total": 63000
+},
+{
+  "_id": {
+    "$oid": "6a181a9f15d97cb7a3be9de5"
+  },
+  "cliente_id": {
+    "$oid": "6a1818f0ff54edefa22d8fd5"
+  },
+  "cliente_nombre": "Martin Ruiz",
+  "fecha_pedido": {
+    "$date": "2024-12-10T11:15:00Z"
+  },
+  "estado": "en_proceso",
+  "activo": true,
+  "productos": [
+    {
+      "producto_id": {
+        "$oid": "6a18194eff54edefa22d8fe7"
+      },
+      "nombre": "Tablet iPad 10ma generacion",
+      "precio_unitario": 580000,
+      "cantidad": 1
+    },
+    {
+      "producto_id": {
+        "$oid": "6a181942ff54edefa22d8fe4"
+      },
+      "nombre": "Hub USB-C 7 puertos",
+      "precio_unitario": 18000,
+      "cantidad": 1
+    }
+  ],
+  "total": 598000
+}]
