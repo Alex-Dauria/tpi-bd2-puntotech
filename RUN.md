@@ -1,6 +1,8 @@
-# PARTE 2 - Operaciones CRUD
+# PARTE 2
 
-## Instrucciones de ejecucion
+## 🚀 Bloque 1: Operaciones CRUD desde la Aplicación
+
+### Instrucciones de ejecucion
 
 1. Cargar variables de entorno con usuario y contraseña indicados en el informe previo
 
