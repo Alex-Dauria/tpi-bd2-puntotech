@@ -42,3 +42,34 @@ npm install
 ```
 node operaciones_crud.js
 ```
+
+## 💾 Bloque 2: Mecanismo de Backups y Resguardo
+
+1. Otorgar permisos de ejecucion al script de backup
+
+```bash
+chmod +x respaldo_atlas.sh
+```
+
+2. Asegurar el entorno [(ver Bloque 1)](#instrucciones-de-ejecucion)
+
+3. Ejecutar el script
+
+```bash
+./respaldo_atlas.sh
+```
+
+Una vez finalizado se debera encontrar la estructura de almacenamiento jerárquico del backup:
+
+```plaintext
+[Directorio Raiz]
+  ├── respaldo_atlas.sh
+  ├── .env
+  └── resguardos_tpi/
+        └── 2026-06-21/             <-- Fecha de ejecución 
+              └── ecommerce_tpi/
+                    ├── clientes.bson
+                    ├── clientes.metadata.json
+                    ├── pedidos.bson
+                    └── ...
+```
